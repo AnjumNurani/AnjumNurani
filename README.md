@@ -7,10 +7,10 @@ and sipping masala chai like it’s rocket fuel.
 
 ## About Me
 
-I'm a passionate developer, lifelong learner, and curious builder who loves creating clean and meaningful digital experiences. I enjoy experimenting with new tech, solving real-world problems, and building things that people love to use.
+I'm a passionate UiUx designer, lifelong learner, and curious builder who loves creating clean and meaningful digital experiences. I enjoy experimenting with new tech, solving real-world problems, and building things that people love to use.
 
-- 🔭 I’m currently working on: Making a web app
-- 🌱 I’m currently learning: web dev from scratch, and how to run an empire with grace.
+- 🔭 I’m currently working on: UiUx projects 
+- 🌱 I’m currently learning: web dev from scratch, languages .
 - 💬 Ask me about: Web development, UI/UX, and designing.
 - 📫 How to reach me: k.anjumnurani18@gmail.com.
 - ⚡ Fun fact: - I believe in premium quality and letting people go—gracefully and powerfully.
